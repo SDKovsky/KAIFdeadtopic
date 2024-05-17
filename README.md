@@ -1,6 +1,10 @@
 # KAIFdeadtopic
 piplaba
 
+
+- Nikita Bredikhin & Nikita Obrekht - основатели и главные разработчики игры
+- https://github.com/nbredikhin/drift-paradise-mta
+
 ~~*__Zdarova laba klass__*~~
 - Участок (2003)
 https://www.kinopoisk.ru/series/89595/
