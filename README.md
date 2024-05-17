@@ -21,9 +21,22 @@ https://www.kinopoisk.ru/series/89595/
   5.1 pozhaluista*
   5.2 pozhaluista*
 
-- Уровень списка 1. Пункт 1.
-  - Уровень списка 1. Пункт 2.
-  - Уровень списка 1. Пункт 3.
+- Igoshin. 
+  - Stepan
+  - Evgen*
+- spasibo. 
+  - spasibo
+  - spasibo*
+- pozhaluista. 
+  - pozhaluista
+  - pozhaluista*
+- pozhaluista*. 
+  - pozhaluista*
+  - pozhaluista
+- Igoshin. 
+  - Stepan
+  - Evgen*
+
 
 | Левая | (середина | Праввая |
 |----------------|:---------:|----------------:|
@@ -32,5 +45,11 @@ https://www.kinopoisk.ru/series/89595/
 
 
 ![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+
+| LEFT | CENTER | RIGHT |
+|----------------|:---------:|----------------:|
+| 😈 | 🥰 | 😈 |
+| 📞 | 🤙 | 🤘 |
+| 🤙 | ✅ | 🙃 |
 
 😈🤘🤙🤙📞
